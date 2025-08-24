@@ -1,9 +1,3 @@
-#'''' registration
-# menu 
-# add student  :   
-# age  :
-# place  :
-# steps completed in 45 minutes'''
 import pandas as pd
 import matplotlib.pyplot as plt 
 import os
